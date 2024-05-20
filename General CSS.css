@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+}
+
+.line {
+    font-family:"Courier New";
+    color:lime;
+    font-size:200%;
+}
+
+.img {
+    width:150px;
+    height:150px;
+}
+
+.link {
+    text-decoration:none;
+    color:lime;
+}
+
+.space {
+    font-family:"Courier New";
+    color:black;
+    font-size:200%;
+}
